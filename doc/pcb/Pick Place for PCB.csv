@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\ttl2rs232-hardware\doc\pcb\Pick Place for PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/08/24
+Time:       23:25
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"X2","PBD-6","TopLayer","PBD-6-sideways","377.953","300.197","90","Header, 6-Pin, Dual row"
+"X1","DB9","TopLayer","DB9_template","984.252","299.803","90","Connector"
+"U1","ST232CTR","TopLayer","TSSOP16_STM","732.283","259.843","0","No Description Available"
+"C5","0.1uF","TopLayer","C_0603","532.480","190.945","0","Capacitor"
+"C4","0.1uF","TopLayer","C_0603","532.480","333.661","0","Capacitor"
+"C3","0.1uF","TopLayer","C_0603","799.212","417.323","0","Capacitor"
+"C2","0.1uF","TopLayer","C_0603","532.480","260.827","0","Capacitor"
+"C1","0.1uF","TopLayer","C_0603","652.559","417.323","0","Capacitor"
